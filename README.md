@@ -1,4 +1,4 @@
-<p align="left">Hello My name is Mohamed imem Hamdi and I am flutter developer</p>
+<p align="left">Hello My name is Mohamed imem Hamdi and I am Flutter Developer.</p>
 
 ###
 
@@ -15,9 +15,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mohamedimem/mohamedimem/output/snake.svg" alt="Snake animation" />
-
 
 - 🔭 I’m currently working with Flutter and Firebase
 - 📫 How to reach me: medimemhamdi18@gmail.com
