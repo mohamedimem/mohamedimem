@@ -1,4 +1,4 @@
-![apps](background.png)
+![apps](background_mobile.png)
 
 Hi I'm Jean-Marie, a silly mobile cross platform french freelance.
 
