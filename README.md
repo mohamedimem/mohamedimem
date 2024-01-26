@@ -1,23 +1,11 @@
-<p align="left">Hello My name is Mohamed imem Hamdi and I am Flutter Developer.</p>
+![apps](background.png)
 
-###
+Hi I'm Jean-Marie, a silly mobile cross platform french freelance.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+I'm the creator of www.sharpnado.com and like to build open source components.
 
-###
+I'm the founder of "Les Compagnons de l'App", [codelapp.fr](https://codelapp.fr), which is an app studio gathering very experimented and talented builders.
 
-- 🔭 I’m currently working with Flutter and Firebase
-- 📫 How to reach me: medimemhamdi18@gmail.com
+You can reach me on twitter [@Piskariov](https://twitter.com/Piskariov) and on [LinkedIn](https://www.linkedin.com/in/alfonsi/).
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![My github stats](https://github-readme-stats.vercel.app/api?username=roubachof&show_icons=true&theme=radical)](https://github.com/roubachof)
