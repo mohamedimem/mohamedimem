@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm amer</h1>
-<h3 align="center">A passionate frontend developer from sudan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amerblackbird&label=Profile%20views&color=0e75b6&style=flat" alt="amerblackbird" /> </p>
+<h1 align="center">Hi 👋, I'm Imem</h1>
+<h3 align="center">A passionate Flutter developer from Tunisia </h3>
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **Nextjs,react fastapi**
+- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://amermohammed.me](https://amermohammed.me)
+- 👨‍💻 All of my projects are available at [https://imemdev.vercel.app]([https://amermohammed.me](https://imemdev.vercel.app))
 
-- 💬 Ask me about **flutter and js**
+- 💬 Ask me about **flutter**
 
-- 📫 How to reach me **amermohammed@gmail.com**
+- 📫 How to reach me **medimemhamdi18@gmail.com**
 
 - ⚡ Fun fact **I think i am a lazy developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/amermohammed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/amermohammed9" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/imemm/](https://www.linkedin.com/in/imemm/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/amermohammed9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
