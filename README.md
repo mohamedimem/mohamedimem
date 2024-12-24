@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **medimemhamdi18@gmail.com**
 
-- ⚡ Fun fact **I think i am a lazy developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
