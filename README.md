@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [imemdev.vercel.app](https://imemdev.vercel.app) and [imem.tech](https://imem.tech)
+- 👨‍💻 All of my projects are available at [imem.tech](https://imem.tech)
 
 - 💬 Ask me about **flutter**
 
